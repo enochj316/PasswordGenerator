@@ -16,13 +16,17 @@ function writePassword() {
 
 function generatePassword() {
   var newPassword = ""
-  var possibleOptions =""
+  var possibleOptions = ""
   var passwordLength = prompt("Length of Password");
   passwordLength = parseInt(passwordLength)
   if (passwordLength < 8 || passwordLength > 128) 
   {
   alert("Must be over 8 or less 128 characters")
   return ""
+  }
+  else if (passwordLength === NaN) 
+  {
+  return "you must enter a number"
   }
 
 var wantsLowerCase = confirm("Do you want Lowercase")
