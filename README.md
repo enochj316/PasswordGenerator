@@ -6,6 +6,8 @@ The purpose of this assingment was to create a "Password Generator" using "Javas
 2. CSS
 3. Javascript
 
+The purpose of this application was to generate a password based on the criteria selected by the user. The algorithm will consider all the required standards and randomly create a password that would satisfy all requirements. 
+
 This application was built using "Visual Studio Code".
 
 ![Visual Stupdio Code](https://github.com/enochj316/github.io.PasswordGenerator/blob/main/Images/VSC.jpg)
