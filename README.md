@@ -6,4 +6,7 @@ The purpose of this assingment was to create a "Password Generator" using "Javas
 2. CSS
 3. Javascript
 
-This application was built using "Visual Studio Code". 
+This application was built using "Visual Studio Code".
+
+Inline-style: 
+![alt text](https://github.com/enochj316/github.io.PasswordGenerator)"Logo Title Text 1")
