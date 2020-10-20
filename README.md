@@ -5,3 +5,5 @@ The purpose of this assingment was to create a "Password Generator" using "Javas
 1. HTML
 2. CSS
 3. Javascript
+
+This application was built using "Visual Studio Code". 
