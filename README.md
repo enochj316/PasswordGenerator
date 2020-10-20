@@ -12,6 +12,6 @@ This application was built using "Visual Studio Code".
 
 #### H4 Password Generator App
 
-(enochj316.github.io/github.io.PasswordGenerator/)
+(https://enochj316.github.io/github.io.PasswordGenerator/)
 
 
