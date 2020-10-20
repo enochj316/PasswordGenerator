@@ -14,4 +14,6 @@ This application was built using "Visual Studio Code".
 
 (https://enochj316.github.io/github.io.PasswordGenerator/)
 
+![Visual Stupdio Code](![Visual Stupdio Code](https://github.com/enochj316/github.io.PasswordGenerator/blob/main/Images/password.jpg)
+
 
