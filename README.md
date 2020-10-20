@@ -8,4 +8,4 @@ The purpose of this assingment was to create a "Password Generator" using "Javas
 
 This application was built using "Visual Studio Code".
 
-![alt text](https://github.com/enochj316/github.io.PasswordGenerator/blob/main/Images/VSC.jpg)"Visual Studio Code")
+![Visual Stupdio Code](https://github.com/enochj316/github.io.PasswordGenerator/blob/main/Images/VSC.jpg)"Visual Studio Code")
