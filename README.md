@@ -1,4 +1,4 @@
-# h1 PasswordGenerator
+# PasswordGenerator
 
 The purpose of this assingment was to create a "Password Generator" using "Javascript." I used the following languages to deliver this appilcation:
 
@@ -10,10 +10,10 @@ This application was built using "Visual Studio Code".
 
 ![Visual Stupdio Code](https://github.com/enochj316/github.io.PasswordGenerator/blob/main/Images/VSC.jpg)
 
-#### H4 Password Generator App
+####  Password Generator App
 
 (https://enochj316.github.io/github.io.PasswordGenerator/)
 
-![Visual Stupdio Code](![Visual Stupdio Code](https://github.com/enochj316/github.io.PasswordGenerator/blob/main/Images/password.jpg)
+![Password Generator](https://github.com/enochj316/github.io.PasswordGenerator/blob/main/Images/password.png)
 
 
